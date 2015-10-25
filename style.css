@@ -1,0 +1,28 @@
+.top-bar {
+  position: fixed;
+  right: 0px;
+  padding-right: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar li {
+    display: inline;
+    text-decoration-line: none;
+    color: black;
+    font-size: 12px;
+    font-family: arial;
+    padding-right: 10px;
+}
+
+a {
+  text-decoration-line: none;
+  color: black;
+  font-size: 12px;
+  font-family: arial;
+
+}
